@@ -83,6 +83,10 @@ a {
 }
 
 /* Landing Page */
+.role {
+  font-family: "Open Sans", sans-serif;
+}
+
 .landing-page__card {
   background-color: #e3ab8856;
   border-radius: 10px;
